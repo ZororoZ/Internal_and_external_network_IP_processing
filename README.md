@@ -1,0 +1,2 @@
+# Internal_and_external_network_IP_processing
+一个简单的小工具，面对庞大的IP地址需要分为内网地址和互联网地址时可以快速处理。（注意：如存在内网专线地址需要自行处理）
